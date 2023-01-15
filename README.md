@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedpax
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning ssis/ssrs/ssas.
+- 🌱 I’m proficient in ssis/ssrs/ssas, sql, python.
 - 💞️ I’m looking to collaborate on so many projects.
 - 📫 How to reach me pedpax2000@yahoo.com
 
