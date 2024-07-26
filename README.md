@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics.
 - 🌱 I’m proficient in ssis/ssrs/ssas, sql, python.
 - 💞️ I’m looking to collaborate on so many projects.
-- 📫 How to reach me pedpax2000@yahoo.com
+- 📫 How to reach me pedpax9000@gmail.com
 
 <!---
 pedpax/pedpax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
